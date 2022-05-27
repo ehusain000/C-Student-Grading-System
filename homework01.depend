@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518830974 source:/Users/eftekherhusain/Desktop/homework01/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<stdlib.h>
+	<time.h>
+	<string>
+
